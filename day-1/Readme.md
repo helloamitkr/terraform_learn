@@ -4,9 +4,9 @@ Terraform helps you write code to create and manage infrastructure (like servers
 
 ## Install Terraform
 
-    ```bash
+    
     terraform version
-    ```
+    
 
 ## Terraform Commands (lifecycle)
     ```bash
