@@ -9,16 +9,16 @@ Terraform helps you write code to create and manage infrastructure (like servers
     
 
 ## Terraform Commands (lifecycle)
-    ```bash
+    
     terraform init
     terraform plan
     terraform apply
     terraform destroy
-    ```
+    
 ## HCL Basic Syntax
 
-```bash
+
     block "block_type" "block_name"{
         arg = "value"
     }
-```
+
