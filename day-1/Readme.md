@@ -22,3 +22,6 @@ Terraform helps you write code to create and manage infrastructure (like servers
         arg = "value"
     }
 
+## Task:1 create a file using terraform using local_file resource and write hello world terraform in this.
+
+## what is provider and resource
